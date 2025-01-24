@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">kadai10_ia</string>
+    <string name="menu_default_text">メニュー</string>
 </resources>
